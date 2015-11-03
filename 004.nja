@@ -1,0 +1,29 @@
+{
+  "mainFile": "pruebaPyQt.py", 
+  "use-tabs": true, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "004", 
+  "license": "Other", 
+  "url": "", 
+  "pythonPath": "/usr/bin/python", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
